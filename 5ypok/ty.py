@@ -1,1 +1,1 @@
-print ('ty')
+print ('ta')
